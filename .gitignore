@@ -1,0 +1,12 @@
+._*
+.DS_Store
+.com.apple.timemachine.supported
+Desktop DB
+Desktop DF
+.fseventsd
+.TemporaryItems
+.Trashes
+*.log
+*.pid
+public/media/images/recipes/*
+db/sphinx/development/*
