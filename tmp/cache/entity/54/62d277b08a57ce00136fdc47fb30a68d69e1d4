@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+  <head>
+    <title>Home Page</title>
+    <link href="/rss/" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link rel="stylesheet" type="text/css" href="/styles.css" />
+  </head>
+  <body>
+    <div id="header">
+  <h1>Home Page</h1>
+</div>
+<hr />
+
+    <div id="content">
+      
+
+<div class="entry">
+  <h3><a href="/articles/2012/01/02/second-post/">Second Post</a> <small>Matt</small></h3>
+  <p>This post uses <strong>Markdown</strong>.</p>
+
+  
+</div>
+
+<div class="entry">
+  <h3><a href="/articles/2012/01/02/first-post/">First Post</a> <small>Matt</small></h3>
+  <p>This post uses <a href="http://www.textism.com/tools/textile/">textile</a>.</p>
+  
+</div>
+
+
+
+      <div id="extended">
+        
+      </div>
+    </div>
+    <hr />
+<div id="footer">
+  <p>Powered by <a href="http://radiantcms.org/">Radiant CMS</a></p>
+</div>
+
+  </body>
+</html>
